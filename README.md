@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/7abf8a30-bdc4-4004-afaa-2042bfcff45c)
+
+
 # Project Overview
  - This is a  networked client-server application. This application acts as a simple PDF file downloader using a custom protocol called BUKA.
  -  The BUKA protocol requires that clients authenticate with the server before they can issue any other commands.
