@@ -65,3 +65,7 @@
  - Run the BUKAClientFrame class to start the client GUI, which allows users to log in, view available files, download PDFs, and log out.
 
 The downloaded PDF files will be saved to the client's disk.
+
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/m48ky9hbywyeqshvcccm" alt="trackgit-views" />
+</a>
